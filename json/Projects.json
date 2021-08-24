@@ -1,0 +1,321 @@
+[
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Percy",
+                "Last_name_of_Employee": "Liang",
+                "nbr_of_hrs": 10.0
+            }
+        ],
+        "Name_of_the_Branch": "HR",
+        "Project_Name": "Advertizing",
+        "Project_No": "70"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Richard",
+                "Last_name_of_Employee": "Koelbel",
+                "nbr_of_hrs": 35.0
+            },
+            {
+                "First_name_of_Employee": "Ahmad",
+                "Last_name_of_Employee": "Jabbar",
+                "nbr_of_hrs": 35.0
+            },
+            {
+                "First_name_of_Employee": "Alicia",
+                "Last_name_of_Employee": "Zelaya",
+                "nbr_of_hrs": 10.0
+            }
+        ],
+        "Name_of_the_Branch": "Administration",
+        "Project_Name": "Computerization",
+        "Project_No": "10"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Jake",
+                "Last_name_of_Employee": "Sheen",
+                "nbr_of_hrs": 25.0
+            },
+            {
+                "First_name_of_Employee": "Debra",
+                "Last_name_of_Employee": "Hall",
+                "nbr_of_hrs": 20.0
+            }
+        ],
+        "Name_of_the_Branch": "Software",
+        "Project_Name": "ConfigMgmt",
+        "Project_No": "11"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Alex",
+                "Last_name_of_Employee": "Yu",
+                "nbr_of_hrs": 18.0
+            }
+        ],
+        "Name_of_the_Branch": "Software",
+        "Project_Name": "DataMining",
+        "Project_No": "13"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Michael",
+                "Last_name_of_Employee": "Morgan",
+                "nbr_of_hrs": 11.0
+            }
+        ],
+        "Name_of_the_Branch": "Research",
+        "Project_Name": "EntityAnnot",
+        "Project_No": "4"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "willie",
+                "Last_name_of_Employee": "Mary",
+                "nbr_of_hrs": 35.0
+            },
+            {
+                "First_name_of_Employee": "Juan",
+                "Last_name_of_Employee": "Linda",
+                "nbr_of_hrs": 40.0
+            }
+        ],
+        "Name_of_the_Branch": "HR",
+        "Project_Name": "Human1",
+        "Project_No": "95"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Alex",
+                "Last_name_of_Employee": "Freed",
+                "nbr_of_hrs": 40.0
+            },
+            {
+                "First_name_of_Employee": "Bonnie",
+                "Last_name_of_Employee": "Bays",
+                "nbr_of_hrs": 40.0
+            },
+            {
+                "First_name_of_Employee": "Alec",
+                "Last_name_of_Employee": "Best",
+                "nbr_of_hrs": 40.0
+            },
+            {
+                "First_name_of_Employee": "Sam",
+                "Last_name_of_Employee": "Snedden",
+                "nbr_of_hrs": 40.0
+            }
+        ],
+        "Name_of_the_Branch": "Hardware",
+        "Project_Name": "InkjetPrinters",
+        "Project_No": "91"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Joseph",
+                "Last_name_of_Employee": "Kirkish",
+                "nbr_of_hrs": 33.0
+            }
+        ],
+        "Name_of_the_Branch": "Hardware",
+        "Project_Name": "LaserPrinters",
+        "Project_No": "92"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Kim",
+                "Last_name_of_Employee": "Grace",
+                "nbr_of_hrs": 40.0
+            },
+            {
+                "First_name_of_Employee": "Jeff",
+                "Last_name_of_Employee": "Chase",
+                "nbr_of_hrs": 46.0
+            },
+            {
+                "First_name_of_Employee": "Jose",
+                "Last_name_of_Employee": "Barbara",
+                "nbr_of_hrs": 40.0
+            },
+            {
+                "First_name_of_Employee": "Cindy",
+                "Last_name_of_Employee": "Burklow",
+                "nbr_of_hrs": 25.0
+            }
+        ],
+        "Name_of_the_Branch": "Software",
+        "Project_Name": "Middleware",
+        "Project_No": "63"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Leonard",
+                "Last_name_of_Employee": "Moody",
+                "nbr_of_hrs": 15.0
+            },
+            {
+                "First_name_of_Employee": "Lisa",
+                "Last_name_of_Employee": "House",
+                "nbr_of_hrs": 10.0
+            }
+        ],
+        "Name_of_the_Branch": "Hardware",
+        "Project_Name": "MotherBoard",
+        "Project_No": "29"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Jennifer",
+                "Last_name_of_Employee": "Wallace",
+                "nbr_of_hrs": 20.0
+            },
+            {
+                "First_name_of_Employee": "Ahmad",
+                "Last_name_of_Employee": "Jabbar",
+                "nbr_of_hrs": 5.0
+            },
+            {
+                "First_name_of_Employee": "Alicia",
+                "Last_name_of_Employee": "Zelaya",
+                "nbr_of_hrs": 30.0
+            }
+        ],
+        "Name_of_the_Branch": "Administration",
+        "Project_Name": "Newbenefits",
+        "Project_No": "30"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Jared",
+                "Last_name_of_Employee": "James",
+                "nbr_of_hrs": 40.0
+            },
+            {
+                "First_name_of_Employee": "Jon",
+                "Last_name_of_Employee": "Jones",
+                "nbr_of_hrs": 40.0
+            },
+            {
+                "First_name_of_Employee": "Justin",
+                "Last_name_of_Employee": "Mark",
+                "nbr_of_hrs": 40.0
+            },
+            {
+                "First_name_of_Employee": "Brad",
+                "Last_name_of_Employee": "Knight",
+                "nbr_of_hrs": 40.0
+            },
+            {
+                "First_name_of_Employee": "Christina",
+                "Last_name_of_Employee": "Hisel",
+                "nbr_of_hrs": 4.0
+            }
+        ],
+        "Name_of_the_Branch": "Software",
+        "Project_Name": "OperatingSystem",
+        "Project_No": "61"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "John",
+                "Last_name_of_Employee": "Smith",
+                "nbr_of_hrs": 32.5
+            },
+            {
+                "First_name_of_Employee": "Joyce",
+                "Last_name_of_Employee": "English",
+                "nbr_of_hrs": 20.0
+            }
+        ],
+        "Name_of_the_Branch": "Research",
+        "Project_Name": "ProductX",
+        "Project_No": "1"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "John",
+                "Last_name_of_Employee": "Smith",
+                "nbr_of_hrs": 7.5
+            },
+            {
+                "First_name_of_Employee": "Franklin",
+                "Last_name_of_Employee": "Wong",
+                "nbr_of_hrs": 10.0
+            },
+            {
+                "First_name_of_Employee": "Joyce",
+                "Last_name_of_Employee": "English",
+                "nbr_of_hrs": 20.0
+            }
+        ],
+        "Name_of_the_Branch": "Research",
+        "Project_Name": "ProductY",
+        "Project_No": "2"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Franklin",
+                "Last_name_of_Employee": "Wong",
+                "nbr_of_hrs": 10.0
+            },
+            {
+                "First_name_of_Employee": "Andrea",
+                "Last_name_of_Employee": "Sondrini",
+                "nbr_of_hrs": 45.0
+            },
+            {
+                "First_name_of_Employee": "Ramesh",
+                "Last_name_of_Employee": "Narayan",
+                "nbr_of_hrs": 40.0
+            }
+        ],
+        "Name_of_the_Branch": "Research",
+        "Project_Name": "ProductZ",
+        "Project_No": "3"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "James",
+                "Last_name_of_Employee": "Borg",
+                "nbr_of_hrs": 5.0
+            }
+        ],
+        "Name_of_the_Branch": "Headquarters",
+        "Project_Name": "Reorganization",
+        "Project_No": "20"
+    },
+    {
+        "Employees": [
+            {
+                "First_name_of_Employee": "Penny",
+                "Last_name_of_Employee": "Wolowitz",
+                "nbr_of_hrs": 4.0
+            },
+            {
+                "First_name_of_Employee": "Zach",
+                "Last_name_of_Employee": "Geller",
+                "nbr_of_hrs": 30.0
+            }
+        ],
+        "Name_of_the_Branch": "Software",
+        "Project_Name": "SearchEngine",
+        "Project_No": "22"
+    }
+]

@@ -1,0 +1,429 @@
+[
+    {
+        "Dpt_nmr": 4,
+        "Employees": [
+            {
+                "First_name_of_Employee": "Alicia",
+                "Last_name_of_Employee": "Zelaya",
+                "Package_of_the_employess": 25000
+            },
+            {
+                "First_name_of_Employee": "Ahmad",
+                "Last_name_of_Employee": "Jabbar",
+                "Package_of_the_employess": 25000
+            },
+            {
+                "First_name_of_Employee": "Wilson",
+                "Last_name_of_Employee": "Holmes",
+                "Package_of_the_employess": 72500
+            },
+            {
+                "First_name_of_Employee": "Jennifer",
+                "Last_name_of_Employee": "Wallace",
+                "Package_of_the_employess": 43000
+            },
+            {
+                "First_name_of_Employee": "Cameron",
+                "Last_name_of_Employee": "Thirteen",
+                "Package_of_the_employess": 80000
+            },
+            {
+                "First_name_of_Employee": "Richard",
+                "Last_name_of_Employee": "Koelbel",
+                "Package_of_the_employess": 85000
+            }
+        ],
+        "First_name_of_manager": "Jennifer",
+        "Last_name_of_manager": "Wallace",
+        "Mag_begin_period_d": "01-JAN-1985",
+        "Name_of_the_Branch": "Administration"
+    },
+    {
+        "Dpt_nmr": 7,
+        "Employees": [
+            {
+                "First_name_of_Employee": "Tom",
+                "Last_name_of_Employee": "Brand",
+                "Package_of_the_employess": 62500
+            },
+            {
+                "First_name_of_Employee": "Lisa",
+                "Last_name_of_Employee": "House",
+                "Package_of_the_employess": 85000
+            },
+            {
+                "First_name_of_Employee": "Joseph",
+                "Last_name_of_Employee": "Kirkish",
+                "Package_of_the_employess": 95000
+            },
+            {
+                "First_name_of_Employee": "Gregory",
+                "Last_name_of_Employee": "Laurie",
+                "Package_of_the_employess": 90000
+            },
+            {
+                "First_name_of_Employee": "Sam",
+                "Last_name_of_Employee": "Snedden",
+                "Package_of_the_employess": 48000
+            },
+            {
+                "First_name_of_Employee": "Evan",
+                "Last_name_of_Employee": "Wallis",
+                "Package_of_the_employess": 92000
+            },
+            {
+                "First_name_of_Employee": "Josh",
+                "Last_name_of_Employee": "Zell",
+                "Package_of_the_employess": 56000
+            },
+            {
+                "First_name_of_Employee": "Andy",
+                "Last_name_of_Employee": "Vile",
+                "Package_of_the_employess": 53000
+            },
+            {
+                "First_name_of_Employee": "Alec",
+                "Last_name_of_Employee": "Best",
+                "Package_of_the_employess": 60000
+            },
+            {
+                "First_name_of_Employee": "Jenny",
+                "Last_name_of_Employee": "Vos",
+                "Package_of_the_employess": 61000
+            },
+            {
+                "First_name_of_Employee": "Chris",
+                "Last_name_of_Employee": "Carter",
+                "Package_of_the_employess": 43000
+            },
+            {
+                "First_name_of_Employee": "Bonnie",
+                "Last_name_of_Employee": "Bays",
+                "Package_of_the_employess": 70000
+            },
+            {
+                "First_name_of_Employee": "Leonard",
+                "Last_name_of_Employee": "Moody",
+                "Package_of_the_employess": 45000
+            },
+            {
+                "First_name_of_Employee": "Alex",
+                "Last_name_of_Employee": "Freed",
+                "Package_of_the_employess": 89000
+            }
+        ],
+        "First_name_of_manager": "Alex",
+        "Last_name_of_manager": "Freed",
+        "Mag_begin_period_d": "15-MAY-1998",
+        "Name_of_the_Branch": "Hardware"
+    },
+    {
+        "Dpt_nmr": 1,
+        "Employees": [
+            {
+                "First_name_of_Employee": "Jisha",
+                "Last_name_of_Employee": "Carpenter",
+                "Package_of_the_employess": 15000
+            },
+            {
+                "First_name_of_Employee": "James",
+                "Last_name_of_Employee": "Borg",
+                "Package_of_the_employess": 55000
+            }
+        ],
+        "First_name_of_manager": "James",
+        "Last_name_of_manager": "Borg",
+        "Mag_begin_period_d": "19-JUN-1971",
+        "Name_of_the_Branch": "Headquarters"
+    },
+    {
+        "Dpt_nmr": 9,
+        "Employees": [
+            {
+                "First_name_of_Employee": "Juan",
+                "Last_name_of_Employee": "Linda",
+                "Package_of_the_employess": 55000
+            },
+            {
+                "First_name_of_Employee": "Kim",
+                "Last_name_of_Employee": "Ted",
+                "Package_of_the_employess": 50000
+            },
+            {
+                "First_name_of_Employee": "Jill",
+                "Last_name_of_Employee": "Jarvis",
+                "Package_of_the_employess": 36000
+            },
+            {
+                "First_name_of_Employee": "Ray",
+                "Last_name_of_Employee": "King",
+                "Package_of_the_employess": 44500
+            },
+            {
+                "First_name_of_Employee": "willie",
+                "Last_name_of_Employee": "Mary",
+                "Package_of_the_employess": 12000
+            },
+            {
+                "First_name_of_Employee": "Johny",
+                "Last_name_of_Employee": "Smith",
+                "Package_of_the_employess": 65000
+            },
+            {
+                "First_name_of_Employee": "Percy",
+                "Last_name_of_Employee": "Liang",
+                "Package_of_the_employess": 55000
+            }
+        ],
+        "First_name_of_manager": "Juan",
+        "Last_name_of_manager": "Linda",
+        "Mag_begin_period_d": "01-FEB-1989",
+        "Name_of_the_Branch": "HR"
+    },
+    {
+        "Dpt_nmr": 3,
+        "Employees": [
+            {
+                "First_name_of_Employee": "Sunil",
+                "Last_name_of_Employee": "Gupta",
+                "Package_of_the_employess": 80000
+            }
+        ],
+        "First_name_of_manager": "Sunil",
+        "Last_name_of_manager": "Gupta",
+        "Mag_begin_period_d": "15-MAY-2009",
+        "Name_of_the_Branch": "Networking"
+    },
+    {
+        "Dpt_nmr": 5,
+        "Employees": [
+            {
+                "First_name_of_Employee": "James",
+                "Last_name_of_Employee": "Miller",
+                "Package_of_the_employess": 75000
+            },
+            {
+                "First_name_of_Employee": "Andrea",
+                "Last_name_of_Employee": "Sondrini",
+                "Package_of_the_employess": 65000
+            },
+            {
+                "First_name_of_Employee": "Franklin",
+                "Last_name_of_Employee": "Wong",
+                "Package_of_the_employess": 40000
+            },
+            {
+                "First_name_of_Employee": "Michael",
+                "Last_name_of_Employee": "Morgan",
+                "Package_of_the_employess": 73500
+            },
+            {
+                "First_name_of_Employee": "John",
+                "Last_name_of_Employee": "Smith",
+                "Package_of_the_employess": 30000
+            },
+            {
+                "First_name_of_Employee": "Joyce",
+                "Last_name_of_Employee": "English",
+                "Package_of_the_employess": 25000
+            },
+            {
+                "First_name_of_Employee": "Ramesh",
+                "Last_name_of_Employee": "Narayan",
+                "Package_of_the_employess": 38000
+            }
+        ],
+        "First_name_of_manager": "Franklin",
+        "Last_name_of_manager": "Wong",
+        "Mag_begin_period_d": "22-MAY-1978",
+        "Name_of_the_Branch": "Research"
+    },
+    {
+        "Dpt_nmr": 8,
+        "Employees": [
+            {
+                "First_name_of_Employee": "Naveen",
+                "Last_name_of_Employee": "Drew",
+                "Package_of_the_employess": 34000
+            },
+            {
+                "First_name_of_Employee": "Carl",
+                "Last_name_of_Employee": "Reedy",
+                "Package_of_the_employess": 32000
+            },
+            {
+                "First_name_of_Employee": "Sammy",
+                "Last_name_of_Employee": "Hall",
+                "Package_of_the_employess": 37000
+            },
+            {
+                "First_name_of_Employee": "Red",
+                "Last_name_of_Employee": "Bacher",
+                "Package_of_the_employess": 33500
+            },
+            {
+                "First_name_of_Employee": "Sheldon",
+                "Last_name_of_Employee": "Cucuou",
+                "Package_of_the_employess": 35500
+            },
+            {
+                "First_name_of_Employee": "Megan",
+                "Last_name_of_Employee": "Jones",
+                "Package_of_the_employess": 62000
+            },
+            {
+                "First_name_of_Employee": "Erin",
+                "Last_name_of_Employee": "Maxfield",
+                "Package_of_the_employess": 72000
+            },
+            {
+                "First_name_of_Employee": "Jennifer",
+                "Last_name_of_Employee": "Joy",
+                "Package_of_the_employess": 45000
+            },
+            {
+                "First_name_of_Employee": "Roy",
+                "Last_name_of_Employee": "Lewallen",
+                "Package_of_the_employess": 75500
+            },
+            {
+                "First_name_of_Employee": "John",
+                "Last_name_of_Employee": "James",
+                "Package_of_the_employess": 81000
+            },
+            {
+                "First_name_of_Employee": "Bob",
+                "Last_name_of_Employee": "Bender",
+                "Package_of_the_employess": 96000
+            },
+            {
+                "First_name_of_Employee": "Kate",
+                "Last_name_of_Employee": "King",
+                "Package_of_the_employess": 44000
+            },
+            {
+                "First_name_of_Employee": "Lyle",
+                "Last_name_of_Employee": "Leslie",
+                "Package_of_the_employess": 41000
+            },
+            {
+                "First_name_of_Employee": "Billie",
+                "Last_name_of_Employee": "King",
+                "Package_of_the_employess": 38000
+            },
+            {
+                "First_name_of_Employee": "Jon",
+                "Last_name_of_Employee": "Kramer",
+                "Package_of_the_employess": 41500
+            },
+            {
+                "First_name_of_Employee": "Gerald",
+                "Last_name_of_Employee": "Small",
+                "Package_of_the_employess": 29000
+            },
+            {
+                "First_name_of_Employee": "Arnold",
+                "Last_name_of_Employee": "Head",
+                "Package_of_the_employess": 33000
+            },
+            {
+                "First_name_of_Employee": "Helga",
+                "Last_name_of_Employee": "Pataki",
+                "Package_of_the_employess": 32000
+            }
+        ],
+        "First_name_of_manager": "John",
+        "Last_name_of_manager": "James",
+        "Mag_begin_period_d": "01-JAN-1997",
+        "Name_of_the_Branch": "Sales"
+    },
+    {
+        "Dpt_nmr": 6,
+        "Employees": [
+            {
+                "First_name_of_Employee": "Jared",
+                "Last_name_of_Employee": "James",
+                "Package_of_the_employess": 85000
+            },
+            {
+                "First_name_of_Employee": "Jon",
+                "Last_name_of_Employee": "Jones",
+                "Package_of_the_employess": 45000
+            },
+            {
+                "First_name_of_Employee": "Justin",
+                "Last_name_of_Employee": "Mark",
+                "Package_of_the_employess": 40000
+            },
+            {
+                "First_name_of_Employee": "Brad",
+                "Last_name_of_Employee": "Knight",
+                "Package_of_the_employess": 44000
+            },
+            {
+                "First_name_of_Employee": "Debra",
+                "Last_name_of_Employee": "Hall",
+                "Package_of_the_employess": 30000
+            },
+            {
+                "First_name_of_Employee": "Alex",
+                "Last_name_of_Employee": "Yu",
+                "Package_of_the_employess": 50000
+            },
+            {
+                "First_name_of_Employee": "John",
+                "Last_name_of_Employee": "Ed",
+                "Package_of_the_employess": 30000
+            },
+            {
+                "First_name_of_Employee": "Jeff",
+                "Last_name_of_Employee": "Chase",
+                "Package_of_the_employess": 44000
+            },
+            {
+                "First_name_of_Employee": "Kim",
+                "Last_name_of_Employee": "Grace",
+                "Package_of_the_employess": 79000
+            },
+            {
+                "First_name_of_Employee": "Nandita",
+                "Last_name_of_Employee": "Ball",
+                "Package_of_the_employess": 62000
+            },
+            {
+                "First_name_of_Employee": "Cindy",
+                "Last_name_of_Employee": "Burklow",
+                "Package_of_the_employess": 45000
+            },
+            {
+                "First_name_of_Employee": "Zach",
+                "Last_name_of_Employee": "Geller",
+                "Package_of_the_employess": 55000
+            },
+            {
+                "First_name_of_Employee": "Jake",
+                "Last_name_of_Employee": "Sheen",
+                "Package_of_the_employess": 52000
+            },
+            {
+                "First_name_of_Employee": "Penny",
+                "Last_name_of_Employee": "Wolowitz",
+                "Package_of_the_employess": 17000
+            },
+            {
+                "First_name_of_Employee": "Christina",
+                "Last_name_of_Employee": "Hisel",
+                "Package_of_the_employess": 45000
+            },
+            {
+                "First_name_of_Employee": "Jose",
+                "Last_name_of_Employee": "Barbara",
+                "Package_of_the_employess": 35000
+            }
+        ],
+        "First_name_of_manager": "Jared",
+        "Last_name_of_manager": "James",
+        "Mag_begin_period_d": "15-MAY-1999",
+        "Name_of_the_Branch": "Software"
+    }
+]

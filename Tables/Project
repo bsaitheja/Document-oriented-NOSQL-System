@@ -1,0 +1,44 @@
++-----------------+--------------+----------------------+-------------------------+--------------------------+--------------+
+| Project_Name    |   Project_No | Name_of_the_Branch   | Last_name_of_Employee   | First_name_of_Employee   |   nbr_of_hrs |
+|-----------------+--------------+----------------------+-------------------------+--------------------------+--------------|
+| Advertizing     |           70 | HR                   | Liang                   | Percy                    |         10   |
+| Computerization |           10 | Administration       | Koelbel                 | Richard                  |         35   |
+| Computerization |           10 | Administration       | Jabbar                  | Ahmad                    |         35   |
+| Computerization |           10 | Administration       | Zelaya                  | Alicia                   |         10   |
+| ConfigMgmt      |           11 | Software             | Sheen                   | Jake                     |         25   |
+| ConfigMgmt      |           11 | Software             | Hall                    | Debra                    |         20   |
+| DataMining      |           13 | Software             | Yu                      | Alex                     |         18   |
+| EntityAnnot     |            4 | Research             | Morgan                  | Michael                  |         11   |
+| Human1          |           95 | HR                   | Mary                    | willie                   |         35   |
+| Human1          |           95 | HR                   | Linda                   | Juan                     |         40   |
+| InkjetPrinters  |           91 | Hardware             | Freed                   | Alex                     |         40   |
+| InkjetPrinters  |           91 | Hardware             | Bays                    | Bonnie                   |         40   |
+| InkjetPrinters  |           91 | Hardware             | Best                    | Alec                     |         40   |
+| InkjetPrinters  |           91 | Hardware             | Snedden                 | Sam                      |         40   |
+| LaserPrinters   |           92 | Hardware             | Kirkish                 | Joseph                   |         33   |
+| Middleware      |           63 | Software             | Grace                   | Kim                      |         40   |
+| Middleware      |           63 | Software             | Chase                   | Jeff                     |         46   |
+| Middleware      |           63 | Software             | Barbara                 | Jose                     |         40   |
+| Middleware      |           63 | Software             | Burklow                 | Cindy                    |         25   |
+| MotherBoard     |           29 | Hardware             | Moody                   | Leonard                  |         15   |
+| MotherBoard     |           29 | Hardware             | House                   | Lisa                     |         10   |
+| Newbenefits     |           30 | Administration       | Wallace                 | Jennifer                 |         20   |
+| Newbenefits     |           30 | Administration       | Jabbar                  | Ahmad                    |          5   |
+| Newbenefits     |           30 | Administration       | Zelaya                  | Alicia                   |         30   |
+| OperatingSystem |           61 | Software             | James                   | Jared                    |         40   |
+| OperatingSystem |           61 | Software             | Jones                   | Jon                      |         40   |
+| OperatingSystem |           61 | Software             | Mark                    | Justin                   |         40   |
+| OperatingSystem |           61 | Software             | Knight                  | Brad                     |         40   |
+| OperatingSystem |           61 | Software             | Hisel                   | Christina                |          4   |
+| ProductX        |            1 | Research             | Smith                   | John                     |         32.5 |
+| ProductX        |            1 | Research             | English                 | Joyce                    |         20   |
+| ProductY        |            2 | Research             | Smith                   | John                     |          7.5 |
+| ProductY        |            2 | Research             | Wong                    | Franklin                 |         10   |
+| ProductY        |            2 | Research             | English                 | Joyce                    |         20   |
+| ProductZ        |            3 | Research             | Wong                    | Franklin                 |         10   |
+| ProductZ        |            3 | Research             | Sondrini                | Andrea                   |         45   |
+| ProductZ        |            3 | Research             | Narayan                 | Ramesh                   |         40   |
+| Reorganization  |           20 | Headquarters         | Borg                    | James                    |          5   |
+| SearchEngine    |           22 | Software             | Wolowitz                | Penny                    |          4   |
+| SearchEngine    |           22 | Software             | Geller                  | Zach                     |         30   |
++-----------------+--------------+----------------------+-------------------------+--------------------------+--------------+
